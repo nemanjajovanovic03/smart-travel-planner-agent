@@ -1,0 +1,14 @@
+{
+  "destination": "Rome",
+  "start_date": "2026-08-10",
+  "end_date": "2026-08-14",
+  "travelers": 2,
+  "budget_eur": 800,
+  "interests": ["history", "museums", "food"],
+  "origin": "Belgrade",
+  "accommodation_budget_eur": 420,
+  "food_budget_eur": 220,
+  "activities_budget_eur": 120,
+  "pace": "balanced",
+  "language": "sr"
+}
